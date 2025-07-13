@@ -7,7 +7,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriellloc&show_icons=true&theme=dark)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellloc&hide_progress=false&layout=compact&theme=dark) -->
 
-
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellloc&layout=compact) -->
 
 ### Minhas tecnologias
