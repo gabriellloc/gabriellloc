@@ -4,24 +4,19 @@
 Me chamo Gabriel Oliveira, sou um desenvolvedor apaixonado por tecnologia e resolver problemas com código. <br>Atualmente estudo e pratico JavaScript, além de estar sempre explorando outras áreas da programação. Tenho o básico da linguagem Python. Sou estudante de Ciência da Computação na Universidade Tiradentes (Unit), atualmente no 2º período.
 
     
-<section style="display:flex; justify-content:space-bettween;">
-<div>
-Tenho interesse em:
-
+#### Tenho interesse em:
 🔧 Desenvolvimento web (Front-end e Back-end) <br>
 📱 Criação de interfaces interativas e responsivas <br>
 🤖 Inteligência Artificial e aplicações práticas com IA no desenvolvimento <br>
-</div>
+    
 
-<div>
-Alguns dos meus certificados:
-
+#### Alguns dos meus certificados:<br>
+    
 Git e GitHub <br>
 HTML e CSS <br>
 JavaScript <br>
+
 Todos os meus certificados estão disponiveis no [LinkedIn](https://www.linkedin.com/in/gabriel-cardoso-bb1175262/)
-</div>
-</section>
 
 <hr>
 
