@@ -1,16 +1,16 @@
-## Opa, Bem-vindo ao meu Perfil 👋
+# Opa, Bem-vindo ao meu Perfil 👋
 
-### Sobre mim
-Me chamo Gabriel Oliveira, sou um desenvolvedor apaixonado por tecnologia e resolver problemas com código. <br>Atualmente estudo e pratico JavaScript, além de estar sempre explorando outras áreas da programação. Tenho o básico da linguagem Python. Sou estudante de Ciência da Computação na Universidade Tiradentes (Unit), atualmente no 2º período.
+## Sobre mim 👀
+Me chamo **Gabriel Oliveira**, sou desenvolvedor apaixonado por tecnologia e resolver problemas com código. <br>Atualmente estudo e pratico JavaScript, além de estar sempre explorando outras áreas da programação. Tenho o básico da linguagem Python. Sou estudante de Ciência da Computação na Universidade Tiradentes (Unit), atualmente no 2º período.
 
     
-#### Tenho interesse em:
+#### Tenho interesse em: 💭
 🔧 Desenvolvimento web (Front-end e Back-end) <br>
 📱 Criação de interfaces interativas e responsivas <br>
 🤖 Inteligência Artificial e aplicações práticas com IA no desenvolvimento <br>
     
 
-#### Alguns dos meus certificados:<br>
+#### Alguns dos meus certificados:🔥
     
 Git e GitHub <br>
 HTML e CSS <br>
@@ -30,9 +30,14 @@ Todos os meus certificados estão disponiveis no [LinkedIn](https://www.linkedin
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellloc&layout=compact) -->
 
 ### Minhas tecnologias
-<div style="display: flex; justify-content: space-between;"><br>
+<div style="display: flex; justify-content: space-between; gap: .5rem;"><br>
     <img style="width:3rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+    &nbsp;
     <img style="width:3rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
+    &nbsp;
     <img style="width:3rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
+    &nbsp;
     <img style="width:3rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+    &nbsp;
+    <img style="width:3rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />      
 </div>
