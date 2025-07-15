@@ -10,12 +10,6 @@ Me chamo **Gabriel Oliveira**, sou desenvolvedor apaixonado por tecnologia e res
 🤖 Inteligência Artificial e aplicações práticas com IA no desenvolvimento <br>
     
 
-#### Alguns dos meus certificados:🔥
-    
-Git e GitHub <br>
-HTML e CSS <br>
-JavaScript <br>
-
 Todos os meus certificados estão disponiveis no [LinkedIn](https://www.linkedin.com/in/gabriel-cardoso-bb1175262/)
 
 <hr>
