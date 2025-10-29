@@ -4,7 +4,7 @@
 Me chamo **Gabriel Oliveira**, sou desenvolvedor apaixonado por tecnologia e resolver problemas com código. <br>Atualmente estudo e pratico JavaScript, além de estar sempre explorando outras áreas da programação. Tenho o básico da linguagem Python. Sou estudante de Ciência da Computação na Universidade Tiradentes (Unit), atualmente no 2º período.
 
     
-#### Tenho interesse em: 💭
+## Tenho interesse em: 💭
 🔧 Desenvolvimento web (Front-end e Back-end) <br>
 📱 Criação de interfaces interativas e responsivas <br>
 🤖 Inteligência Artificial e aplicações práticas com IA no desenvolvimento <br>
@@ -36,7 +36,7 @@ Todos os meus certificados estão disponiveis no [LinkedIn](https://www.linkedin
 
 <hr>
 
-### Minhas tecnologias
+## Minhas tecnologias
 <div style="display: flex; justify-content: space-between; gap: .5rem;"><br>
     <img height=50 align="center" style="width:3rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
     &nbsp;
