@@ -22,12 +22,18 @@ Todos os meus certificados estão disponiveis no [LinkedIn](https://www.linkedin
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriellloc&show_icons=true&theme=dark)]() -->
 
 
+
+<!--
 <a href="https://github.com/gabriellloc/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gabriellloc&show_icons=true&theme=dark"/>
 </a>
 <a href="https://github.com/gabriellloc/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellloc&theme=dark"/>
 </a>
+-->
+
+
+
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellloc&hide_progress=true&layout=compact&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellloc&hide_progress=true&layout=compact&theme=dark) -->
