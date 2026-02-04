@@ -41,16 +41,3 @@ Todos os meus certificados estão disponiveis no [LinkedIn](https://www.linkedin
 
 
 <hr>
-
-## Minhas tecnologias
-<div style="display: flex; justify-content: space-between; gap: .5rem;"><br>
-    <img height=50 align="center" style="width:3rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-    &nbsp;
-    <img height=50 align="center" style="width:3rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
-    &nbsp;
-    <img height=50 align="center" style="width:3rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
-    &nbsp;
-    <img height=50 align="center" style="width:3rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-    &nbsp;
-    <img height=50 align="center" style="width:3rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />      
-</div>
