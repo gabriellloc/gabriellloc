@@ -1,7 +1,7 @@
 # Opa, Bem-vindo ao meu Perfil 👋
 
 ## Sobre mim 👀
-Me chamo **Gabriel Oliveira**, sou desenvolvedor apaixonado por tecnologia e resolver problemas com código. <br>Atualmente estudo e pratico JavaScript, além de estar sempre explorando outras áreas da programação. Tenho o básico da linguagem Python. Sou estudante de Ciência da Computação na Universidade Tiradentes (Unit), atualmente no 2º período.
+Me chamo **Gabriel Oliveira**, sou desenvolvedor apaixonado por tecnologia e resolver problemas com código. <br>Atualmente estudo e pratico JavaScript, além de estar sempre explorando outras áreas da programação. Tenho o básico da linguagem Python. Sou estudante de Ciência da Computação na Universidade Tiradentes (Unit), atualmente no 3º período.
 
     
 ## Tenho interesse em: 💭
