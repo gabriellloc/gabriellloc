@@ -10,6 +10,7 @@ Sou desenvolvedor comprometido em transformar desafios em soluções bem estrutu
 
 #### Principais tecnologias
 - JavaScript / TypeScript
+- Java
 - Node.js (Express / Fastify)
 - React / Nextjs
 - Git
