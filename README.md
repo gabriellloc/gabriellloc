@@ -1,46 +1,19 @@
-# Opa, Bem-vindo ao meu Perfil 👋
+# Gabriel Oliveira Cardoso
 
-## Sobre mim 👀
-Me chamo **Gabriel Oliveira**, sou desenvolvedor apaixonado por tecnologia e resolver problemas com código. <br>Atualmente estudo e pratico JavaScript, além de estar sempre explorando outras áreas da programação. Tenho o básico da linguagem Python. Sou estudante de Ciência da Computação na Universidade Tiradentes (Unit), atualmente no 3º período.
+Estudante e programador em constante evolução.
 
-    
-## Tenho interesse em: 💭
-🔧 Desenvolvimento web (Front-end e Back-end) <br>
-📱 Criação de interfaces interativas e responsivas <br>
-🤖 Inteligência Artificial e aplicações práticas com IA no desenvolvimento <br>
-    
+[![LinkedIn](https://img.shields.io/badge/linkedin-red.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieldevcardoso)
+[![Instagram](https://img.shields.io/badge/Instagram-red.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/gabrielocdev)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=gabrielcarodoso595@gmail.com)
 
-Todos os meus certificados estão disponiveis no [LinkedIn](https://www.linkedin.com/in/gabriel-cardoso-bb1175262/)
+Sou desenvolvedor comprometido em transformar desafios em soluções bem estruturadas. Este repositório reflete minha prática constante, evolução técnica e foco em entregar código de qualidade.
 
-<hr>
+#### Principais tecnologias
+- JavaScript / TypeScript
+- Node.js (Express / Fastify)
+- React / Nextjs
+- Git
 
-<!--
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gabrielocf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-cardoso-bb1175262/)
+Quero aprender continuamente e criar com propósito, buscando gerar impacto positivo no mundo.
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellloc&theme=dark)]()
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriellloc&show_icons=true&theme=dark)]() 
-
--->
-
-
-
-<!--
-<a href="https://github.com/gabriellloc/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gabriellloc&show_icons=true&theme=dark"/>
-</a>
-<a href="https://github.com/gabriellloc/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellloc&theme=dark"/>
-</a>
--->
-
-
-
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellloc&hide_progress=true&layout=compact&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellloc&hide_progress=true&layout=compact&theme=dark) -->
-
-
-
-<hr>
+“Às vezes é preciso imaginar o que ainda não existe — e então construí-lo.” — Alan Turing
